@@ -5,7 +5,7 @@
 
 
 html {
-    background-color: lightgray;
+    background-color: #1c1e1f;
     font-family: 'Nunito', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -19,7 +19,7 @@ html {
 h1 {
     font-weight: normal;
     margin: auto;
-    background: #fff;
+    background: #f5f1ee;
     line-height: 2.5em;
 }
 
@@ -28,7 +28,8 @@ h1.page-header{
 }
 
 main.wrapper {
-    background-color: white;
+    background-color: #f5f1ee
+    ;
     overflow: auto;
 }
 
@@ -43,7 +44,7 @@ h2,h3 {
 }
 
 a {
-    color:#3e3734;
+    color:#5c98f3;
     text-decoration: none;
 }
 
